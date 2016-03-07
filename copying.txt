@@ -1,0 +1,24 @@
+Tento program (ceska strategicka hra StormNet) a jeho zdrojove
+kody jsou sireny pod licenci GPL v2, jejiz zneni naleznete napr. na www.gnu.cz
+
+Veskere dalsi upravy a sireni techto zdrojovych kodu nebo samotneho programu
+se ridi touto licenci.
+
+Pro samotne ladeni zdrojovych kodu doporucujeme si stahnout i datove soubory (obrazky apod.),
+ktere najdete na webovych strankach (prvnich) autoru.
+
+Pokud ve zdrojovych kodech budete delat zmeny a program pak budete sirit dale,
+prosim poznacte do nize uvedenych radku sve inicialy, kontakt na sebe
+a datum uvolneni Vasi verze.
+
+---===---===---===---===---===
+upravil ... kontakt ... dne ...
+---===---===---===---===---===
+upravil ... kontakt ... dne ...
+---===---===---===---===---===
+Hru ve verzi pro Microsoft DOS a Windows 9x vytvoril tym Giliath.
+http://giliath.hi-web.cz
+---===---===---===---===---===
+
+
+
